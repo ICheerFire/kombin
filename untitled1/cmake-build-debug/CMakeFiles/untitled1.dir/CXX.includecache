@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/olivka/CLionProjects/untitled1/kombin.cpp
+clocale
+-
+iostream
+-
+kombin.h
+/Users/olivka/CLionProjects/untitled1/kombin.h
+math.h
+-
+
+/Users/olivka/CLionProjects/untitled1/kombin.h
+__bit_reference
+-
+
